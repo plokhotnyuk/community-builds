@@ -17,7 +17,7 @@ export ORIGINAL_HOME=$HOME
 export HOME="$(pwd)"
 
 # Defaults
-scala_version_default="2.12.7-bin-5622f5d"  # June 11
+scala_version_default="2.12.6"
 scala_version="$scala_version_default"
 root_dir=$(pwd)
 config_dir="configs"
